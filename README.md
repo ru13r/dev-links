@@ -19,4 +19,4 @@
 
 
 ### Category Theory
-* [Saunders Mac Lane - Categories for the Working Mathematician](https://www.maths.ed.ac.uk/~v1ranick/papers/maclanecat.pdf) - an excellent book on category theory, but requires strong background in mathematics
+* [Saunders Mac Lane - Categories for the Working Mathematician](https://www.maths.ed.ac.uk/~v1ranick/papers/maclanecat.pdf) - an excellent book on category theory, but it assumes a strong background in mathematics
