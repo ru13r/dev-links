@@ -16,7 +16,7 @@
 
 ### Articles
 * [Функциональное программирование в JavaScript с практическими примерами](https://habr.com/company/mailru/blog/327522/) (JS)
-
+* [Шпаргалка по функциональному программированию](https://habr.com/ru/company/yandex/blog/547786/) (JS)
 
 ### Category Theory
 * [Saunders Mac Lane - Categories for the Working Mathematician](https://www.maths.ed.ac.uk/~v1ranick/papers/maclanecat.pdf) - an excellent book on category theory, but it assumes a strong background in mathematics
